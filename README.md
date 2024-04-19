@@ -13,7 +13,7 @@
 
 ![s1](https://raw.githubusercontent.com/c4pt000/URI-withdraw-QR-code-backend-api-post-requst-instead-of-deposit-QR/main/withdraw-select.png)
 
-[1] selecting your withdraw address on your mobile device and clicking a button for "scan withdrawal QR code" 
+[1] selecting your withdraw address on your mobile device and clicking a button for "scan withdrawal QR code" using your phone camera
 
 would read the withdrawal QR code on the website which would be an encoded URI string for the server's api listening for input using that string linked to your username
 
