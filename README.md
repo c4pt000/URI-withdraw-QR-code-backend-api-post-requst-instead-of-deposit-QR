@@ -14,7 +14,7 @@ but what if you select to withdraw instead of deposit and you wanted an easy way
 
 ![s1](https://raw.githubusercontent.com/c4pt000/URI-withdraw-QR-code-backend-api-post-requst-instead-of-deposit-QR/main/withdraw-select.png)
 
-selecting your withdraw address on your mobile device and clicking a button for "scan withdrawal QR code" 
+[1] selecting your withdraw address on your mobile device and clicking a button for "scan withdrawal QR code" 
 
 would read the withdrawal QR code on the website which would be an encoded URI string for the server's api listening for input using that string linked to your username
 
@@ -31,7 +31,7 @@ and the mobile app would then take the withdraw address you selected and do a PO
 
 once the remote server recieves the post request which is listening for remote input (almost similar to post tx/rawtx from bitcoin rpc but for a select URI-sring-with-address-and-username)
 
-the website javascript or php script where the user wants the withdraw address inputed instead of manually inputing the withdraw address 
+[2] the website javascript or php script where the user wants the withdraw address inputed instead of manually inputing the withdraw address 
 
 would be inserted into the page from the api's backend
 
