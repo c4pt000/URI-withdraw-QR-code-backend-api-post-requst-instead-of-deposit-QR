@@ -31,7 +31,7 @@ and the mobile app would then take the withdraw address you selected and do a PO
 
 once the remote server recieves the post request which is listening for remote input (almost similar to post tx/rawtx from bitcoin rpc but for a select URI-sring-with-address-and-username)
 
-[2] the website javascript or php script where the user wants the withdraw address inputed instead of manually inputing the withdraw address 
+[2] the website javascript or php script where the user wants the withdraw address inputed instead of manually inputing the withdraw address will automatically be inserted and show up then the user can click withdraw to proceed withdrawing funds
 
 would be inserted into the page from the api's backend
 
