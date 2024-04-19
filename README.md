@@ -37,7 +37,7 @@ would be inserted into the page from the api's backend
 
 
 
-then once the withdraw address has 1 confirm for a tx from the user actually withdrawing funds or some action
+then once the withdraw address has 1 confirm or a pre-confirm for a tx from the user actually withdrawing funds or some action
 
 then the api marks the string as received withdraw address
 
