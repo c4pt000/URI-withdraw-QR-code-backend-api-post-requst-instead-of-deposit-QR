@@ -19,7 +19,7 @@ but what if you select to withdraw instead of deposit and you wanted an easy way
 would read the withdrawal QR code on the website which would be an encoded URI string for the server's api listening for input using that string linked to your username
 
 
-URI-encoded string example.... "user999@api.xeggex.com?t=<dateandtimeinunixepoch>-<randomized-64-length-hash-here>"
+URI-encoded string example.... "user999@api.xeggex.com?t=dateandtimeinunixepoch>-<randomized-64-length-hash-here"
 
 once you scan the withdraw code on your mobile after selecting your address that you want to withdraw to which would arrive on your phone.....
 
